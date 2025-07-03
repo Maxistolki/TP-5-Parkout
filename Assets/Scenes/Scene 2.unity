@@ -491,6 +491,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1070344135809370601, guid: bfccbad2aeca99d4dbe6c411b7559a6c,
+        type: 3}
+      propertyPath: cost
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8384420512647906157, guid: bfccbad2aeca99d4dbe6c411b7559a6c,
         type: 3}
       propertyPath: m_Name
@@ -987,4 +992,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d034a11258a11e4484002d1fe3828a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mercancia: {fileID: 0}
   interactionMessage: {fileID: 416419499}
